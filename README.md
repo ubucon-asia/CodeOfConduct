@@ -1,11 +1,9 @@
-# Ubucon Asia Code of Conduct
-*Revision: 1*
+# CodeOfConduct
 
-This Code of Conduct applies to everyone attending Ubucon Asia event, in addition to the [Ubuntu Code of Conduct 2.0](https://launchpad.net/codeofconduct/2.0) that applies to whole Ubuntu Community
+This repository contains Ubucon Asia Code of Conduct which complements Ubuntu Code of Conduct 2.0 for Ubucon Asia event.
+For convenience, a full copy of Ubuntu Code of Conduct 2.0 document is also included.
+Both Ubucon Asia Code of Conduct and Ubuntu Code of Conduct 2.0 applies to everyone who participates Ubucon Asia event.
 
-## Contact info
-You may found someone violating this Code of Conduct, or might got anything not sure about this Code of Conduct.
-In that case, Please don't hesitate to contact and ask us or report violation.
-To do so, please contact us with the contact info below.
-
-contact@ubucon.asia
+- [Ubucon Asia Code of Conduct](UbuconAsiaCodeOfConduct.md)
+- [Copy of Ubuntu Code of Conduct 2.0](UbuntuCodeofConduct-2.0.txt)
+- [Ubuntu Code of Conduct on ubuntu.com](https://ubuntu.com/community/code-of-conduct)
