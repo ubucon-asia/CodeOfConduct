@@ -3,9 +3,9 @@
 
 The goal of Ubucon Asia, as a part of the greater Ubuntu Community, is to connect people intersted in Ubuntu across the world under safe environment. To reach the goal, Ubucon Asia adopted this Code of Conduct and [Ubuntu Code of Conduct 2.0](https://launchpad.net/codeofconduct/2.0).
 
-Both enforced to anyone participating Ubucon Asia event. All participants are expected to cooperate to ensure a safe environment for everybody.
-
-This code of conduct applies to all communication: this includes virtual communication such as mailing list, eventyay.com, github.com and other communication medium such as social media platform and physical meetup
+Both code of conduct enforced to following items. All participants are expected to cooperate to ensure a safe environment for everybody.
+- Anyone participating Ubucon Asia event: Attendees, Speakers, Sponsors, Organizers, Volunteers and other event participants.
+- All communication: this includes virtual communication such as mailing list, eventyay.com, github.com and other communication medium such as social media platform and physical meetup
 
 ## A safe environment where everyone is respected
 Ubucon Asia is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for anywhere, anytime of the conference including every sessions and any online spaces. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
