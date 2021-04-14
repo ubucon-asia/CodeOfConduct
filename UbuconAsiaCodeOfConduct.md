@@ -1,5 +1,5 @@
 # Ubucon Asia Code of Conduct
-*Draft document*
+*Revision 0*
 
 The goal of Ubucon Asia, as a part of the greater Ubuntu Community, is to connect people intersted in Ubuntu across the world under safe environment. To reach the goal, Ubucon Asia adopted this Code of Conduct and [Ubuntu Code of Conduct 2.0](https://launchpad.net/codeofconduct/2.0).
 
